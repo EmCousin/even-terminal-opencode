@@ -1,0 +1,11 @@
+node_modules/
+coverage/
+*.bak
+*.log
+.env
+.env.*
+!.env.example
+*.environment
+service.json
+*.pem
+*.key
