@@ -107,5 +107,5 @@ cursors or more than 200 pages fail explicitly rather than report partial totals
 
 ## License
 
-ISC; see [LICENSE](LICENSE). The package is marked private to prevent accidental
+MIT; see [LICENSE](LICENSE). The package is marked private to prevent accidental
 publication to npm; that does not restrict sharing the source on GitHub.
